@@ -1,0 +1,29 @@
+body
+{
+    margin: 0;
+}
+
+.header-bar
+{   
+    width: 100vw;
+    height: 10vh;
+    display: flex;
+    flex-direction: row;
+    background-color: #3868d8;
+    justify-content: flex-end;
+    align-items: center;
+}
+
+.header-bar div
+{
+    margin: 10px;
+    font-size: 20px;
+    
+}
+
+.header-bar div a
+{
+    color: white;
+    text-decoration: none;
+}
+
